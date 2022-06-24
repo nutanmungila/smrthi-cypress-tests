@@ -13,6 +13,7 @@
   },
   "description": "",
   "dependencies": {
-    "@badeball/cypress-cucumber-preprocessor": "^11.1.0"
+    "@badeball/cypress-cucumber-preprocessor": "^11.1.0",
+    "@cypress/webpack-preprocessor": "^5.12.0"
   }
 }
